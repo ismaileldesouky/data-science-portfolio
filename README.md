@@ -6,6 +6,7 @@ This repository contains some of the Data projects I worked on for practice and 
 
 * Data Analysis (Python)
   * [TV, Halftime Shows, and the Big Game](https://github.com/ismaileldesouky/data-science-portfolio/blob/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb) A project visualization co-relation Superbowl viewership and halftime shows. This project is a part of the Data camp exercise projects.
+  * [Disney Movies and Box Office Success](https://github.com/ismaileldesouky/data-science-portfolio/blob/master/Disney%20Movies%20and%20Box%20Office%20Success/notebook.ipynb) A project showing work with statistical inference and manipulating data using Seaborn and Pandas libraries.
 
 * Data Visualization (Tableau)
   * [Africa Cup of Nations 2019 Statistics](https://public.tableau.com/profile/ismail.eldesouky#!/vizhome/Pre-AfricaCupofNations2019Statistics/Dashboard1)
